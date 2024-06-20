@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015191539741",
+    "project_id": "goijo-5c19c",
+    "storage_bucket": "goijo-5c19c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015191539741:android:39d794484ec1d08a9c76f4",
+        "android_client_info": {
+          "package_name": "com.example.goijo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhR5Jr98rbPoq9mFRF55MxsrIOHoA0Xrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoIjo</string>
+    <string name="take">Take Image</string>
+    <string name="analyze">Analyze Image\n</string>
+    <string name="Organik">-</string>
+    <string name="output">Output :</string>
+    <string name="welcome">Welcome User</string>
+    <string name="id_team">ID Team: C241-PR579</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
